@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "cascadia-code",
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "block-outline",
+    "editor.wordWrap": "on",
+    "editor.minimap.autohide": true
+}
